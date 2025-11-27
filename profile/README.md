@@ -1,6 +1,6 @@
 ## Money Pro Mac Family License
 
-<img src="https://store-images.s-microsoft.com/image/apps.60658.13761936173735329.8d7435d6-2ac8-4deb-a566-671bd3b37139.7adca08a-6c73-4d9c-ac53-8550404c64c6" width="200" alt="App icon" align="left"/>
+<img src="https://play-lh.googleusercontent.com/4e9eCwgQK6q8tl3fOC28y-X_fOk3URWHrL4zvVPc3PL6wBxdEFPv_sN-QZJ8ma4mzg=w240-h480-rw" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Money Pro for macOS</h3>
